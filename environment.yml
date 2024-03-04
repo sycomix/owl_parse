@@ -1,0 +1,25 @@
+name: owl_parse-env
+dependencies:
+  - python=3.8
+  - pip
+  - setuptools
+  - wheel
+  - pytest
+  - pytest-cov
+  - flake8
+  - pylint
+  - mypy
+  - isort
+  - black
+devDependencies:
+  - python=3.8
+  - pip
+  - setuptools
+  - wheel
+  - pytest
+  - pytest-cov
+  - flake8
+  - pylint
+  - mypy
+  - isort
+  - black
