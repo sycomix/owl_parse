@@ -1,6 +1,6 @@
 name: owl_parse-env
 dependencies:
-  - python=3.8
+  - python=3.10
   - pip
   - setuptools
   - wheel
@@ -12,7 +12,7 @@ dependencies:
   - isort
   - black
 devDependencies:
-  - python=3.8
+  - python=3.10
   - pip
   - setuptools
   - wheel
